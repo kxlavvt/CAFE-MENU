@@ -3,4 +3,4 @@ Sitio Web (HTML &amp; CSS) Menu de cafetería
 Incluye:                                                                                                                                                                                                                                                                            
 Productos                                                                                                                                                                                                                                                                          
 Precios                                                                                                                                                                                                                                                                            
-Logo de <title>
+Logo.png  (de la cabecera)
